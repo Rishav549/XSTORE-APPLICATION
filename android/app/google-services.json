@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "373334886770",
+    "project_id": "x-manage-device",
+    "storage_bucket": "x-manage-device.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373334886770:android:e071d707aeb058d7d675eb",
+        "android_client_info": {
+          "package_name": "com.example.xstore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVbgMu0LK5Fgj2tpkh-gWBB8DQc7v_K_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
